@@ -5,7 +5,6 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 MCA Final Year Graduate  
 - 💻 Full Stack Developer (React + Node + Python)  
 - 🤖 Built an AI-based Virtual Assistant project (**ALPHA**)  
 - 📊 Developed a Sentiment Analysis Web App (**SentiMapper**)  
