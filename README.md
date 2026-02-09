@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudeep D R</h1>
-<h3 align="center">MCA Graduate | Full Stack Developer | AI & Web Enthusiast from India 🇮🇳</h3>
+<h3 align="center">Aspiring Python Full Stack Developer  🇮🇳</h3>
 
 ---
 
@@ -17,7 +17,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,fastapi,mongodb,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,mongodb,mysql,git,github,vscode" />
 </p>
 
 ---
