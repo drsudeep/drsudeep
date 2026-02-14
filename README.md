@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sudeep D R</h1>
-<h3 align="center">Aspiring Python Full Stack Developer  🇮🇳</h3>
+<h3 align="center">Aspiring Python Full Stack Developer </h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 💻 Full Stack Developer (React + Node + Python)  
-- 🤖 Built an AI-based Virtual Assistant project (**ALPHA**)  
-- 📊 Developed a Sentiment Analysis Web App (**SentiMapper**)  
+Computer Applications graduate skilled in Python, SQL, and web technologies with hands-on project experience.
+Strong understanding of database concepts, application logic, and frontend development using HTML, CSS, and
+JavaScript. Focused on problem-solving, learning new technologies, and building reliable software solutions.
 - 🌱 Currently improving skills in **React, Backend APIs & AI integrations**
 - 🧠 Interested in **Web Development, AI, APIs, and Real-Time Applications**
 
