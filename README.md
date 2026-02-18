@@ -5,9 +5,7 @@
 
 ### 👨‍💻 About Me
 
-Computer Applications graduate skilled in Python, SQL, and web technologies with hands-on project experience.
-Strong understanding of database concepts, application logic, and frontend development using HTML, CSS, and
-JavaScript. Focused on problem-solving, learning new technologies, and building reliable software solutions.
+Aspiring Python Full-Stack Developer and MCA graduate with expertise in building scalable web applications and AI-driven solutions. Proficient in Python, SQL, and JavaScript with a focus on creating efficient backend logic and responsive frontends. Experienced in REST API integration and database management through hands-on projects and professional internships.
 - 🌱 Currently improving skills in **React, Backend APIs & AI integrations**
 - 🧠 Interested in **Web Development, AI, APIs, and Real-Time Applications**
 
