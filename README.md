@@ -5,16 +5,12 @@
 
 ### 👨‍💻 About Me
 
-Aspiring Python Full-Stack Developer and MCA graduate with expertise in building scalable web applications and AI-driven solutions. Proficient in Python, SQL, and JavaScript with a focus on creating efficient backend logic and responsive frontends. Experienced in REST API integration and database management through hands-on projects and professional internships.
-- 🌱 Currently improving skills in **React, Backend APIs & AI integrations**
-- 🧠 Interested in **Web Development, AI, APIs, and Real-Time Applications**
-
+Aspiring Python Full-Stack Developer and MCA graduate with a strong interest in software and web development. Skilled in Python, MySQL, HTML, CSS, and JavaScript, with hands-on experience in building practical projects. Passionate about learning new technologies and developing efficient, user-friendly applications.
 ---
-
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,mongodb,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,mongodb,mysql,github,vscode" />
 </p>
 
 ---
@@ -38,8 +34,8 @@ Aspiring Python Full-Stack Developer and MCA graduate with expertise in building
 
 ### 📫 Connect With Me
 
-- 📧 Email: **your-email@example.com**
-- 💼 LinkedIn: **(add your LinkedIn link)**
+- 📧 Email: **sudeepdr9845@gmail.com**
+- 💼 LinkedIn: **(www.linkedin.com/in/sudeep-d-r-)**
 - 🌐 Portfolio: *(optional – can add later)*
 
 ---
