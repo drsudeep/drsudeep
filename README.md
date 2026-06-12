@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-MCA graduate (2025) from City Engineering College, VTU, Bengaluru with hands-on experience in Python full stack development across two internships and three projects. I build backend applications using Django and MySQL, and I'm comfortable working across the full stack with HTML, CSS, and JavaScript on the frontend. Currently interning at PySpiders, Bengaluru, where I work on real-world Django-based web applications.
+MCA graduate with hands-on experience in Python full stack development across two internships and three projects. I build backend applications using Django and MySQL, and I'm comfortable working across the full stack with HTML, CSS, and JavaScript on the frontend. Currently interning at PySpiders, Bengaluru, where I work on real-world Django-based web applications.
 
 - 🔭 Currently working on **JobTrackr** — a Django + MySQL job application tracker
 - 🌱 Actively strengthening skills in **Django, REST APIs, and SQL**
