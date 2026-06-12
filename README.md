@@ -82,7 +82,7 @@ MCA graduate with hands-on experience in Python full stack development across tw
 
 | Role | Company | Duration |
 |---|---|---|
-| Python Full Stack Intern | PySpiders, Bengaluru | Jan 2026 – Present |
+| Python Full Stack Intern | PySpiders, Bengaluru | Jan 2026 – May 2026 |
 | AI / Data Science Intern | Scontinent Technologies Pvt. Ltd. | Nov 2024 – Jan 2025 |
 
 ---
