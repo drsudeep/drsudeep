@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudeep D R</h1>
-<h3 align="center">Python Full Stack Developer | Django • MySQL • JavaScript</h3>
+<h3 align="center">Python Full Stack Developer </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sudeep-d-r-/" target="_blank">
@@ -70,19 +70,22 @@ MCA graduate with hands-on experience in Python full stack development across tw
 
 ---
 
-#### 🔹 [JobTrackr – Job Application Tracker](https://github.com/drsudeep/JobTrackr)
-> Full-stack Django + MySQL app to track job applications with status management and analytics.
-- Built with Django ORM, normalized MySQL schema with 5+ tables
-- Analytics dashboard with Chart.js and search/filter via Django QuerySet
-- **Tech:** Python, Django, MySQL, HTML5, CSS3, Bootstrap, JavaScript
+#### 🔹 [JobTrackr – Job Application Tracker](https://github.com/drsudeep/jobtrackr)
+> Full-stack Django application for tracking and managing job applications with authentication, analytics, and application lifecycle management.
+
+- Implemented secure user authentication and session management with user-specific application data isolation.
+- Built CRUD operations, search/filter functionality, and CSV export for efficient job application tracking.
+- Developed an analytics dashboard with Chart.js to visualize application status distribution and trends across 4 recruitment stages.
+- Deployed the application on Render with GitHub-based version control and automated deployment workflow.
+- **Live Demo:** https://jobtrackr-nvmc.onrender.com
+- **Tech:** Python, Django, SQLite, HTML5, CSS3, Bootstrap, JavaScript, Chart.js, Git, GitHub, Render
 
 ---
-
 ### 💼 Experience
 
 | Role | Company | Duration |
 |---|---|---|
-| Python Full Stack Intern | PySpiders, Bengaluru | Jan 2026 – May 2026 |
+| Python Full Stack Intern | PySpiders, Bengaluru | JDec 2025 – May 2026 |
 | AI / Data Science Intern | Scontinent Technologies Pvt. Ltd. | Nov 2024 – Jan 2025 |
 
 ---
